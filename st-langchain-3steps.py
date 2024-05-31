@@ -1,4 +1,5 @@
 # https://python.langchain.com/v0.1/docs/expression_language/get_started/
+# https://python.langchain.com/v0.1/docs/get_started/quickstart/
 import streamlit as st
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
